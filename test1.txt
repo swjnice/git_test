@@ -4,6 +4,6 @@ init
 2. pull test
 3. branch 2 test
 
-4. fix - main change
+it's done
 
 
