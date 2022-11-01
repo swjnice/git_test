@@ -1,7 +1,8 @@
 init
 
-1. commit test
-2. pull test
+1. this would work
+1. why not conflict
+2. pl tetstest
 3. branch 2 test
 
 it's done
