@@ -2,4 +2,4 @@ init
 
 1. commit test
 2. pull test
-3. merge conflilct!!
+3. merge branch 2 conflilct!!
